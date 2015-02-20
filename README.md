@@ -1,8 +1,8 @@
 # Queue-Simulator
 > I have within 2 days of hard working well developed, structured and documented this app to be 100% free bugs.
 > GUI Queue simulation &amp; analytical modelling of a multi-server using markovian queuing theory,
-> the application let you conduct markovian queuing theory on graphican user interface and field entry bases,
-> where simulation customers is visualised as graphics of baskets and servers as checkout. 
+> the application let you conduct markovian queuing theory on graphical user interface and field entry bases,
+> where simulation customers is visualised as graphics of baskets and servers as checkouts. 
 
 ### Application Specification
 
