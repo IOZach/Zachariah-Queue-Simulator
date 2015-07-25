@@ -33,7 +33,7 @@ You need Eclipse SDK to run the application.
 - Create New Project
 - Import Source Folder
 - Review/Debug The Code 
-- Run s Java Application
+- Run/Play Java Application
 
 ### License
 
