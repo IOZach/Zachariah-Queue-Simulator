@@ -1,5 +1,5 @@
 # Queue-Simulator
-> I have within 2 days of hard working well developed, structured and documented this app to be 100% free bugs.
+> 2 days of hard working a well developed, structured and documented app to be 100% free of bugs.
 > GUI Queue simulation &amp; analytical modelling of a multi-server using markovian queuing theory,
 > the application let you conduct markovian queuing theory on graphical user interface and field entry bases,
 > where simulation customers is visualised as graphics of baskets and servers as checkouts. 
@@ -39,9 +39,9 @@ You need Eclipse SDK to run the application.
 
 GUI Application implements Queue simulation & analytical modelling of a multi-server using markovian queuing theory.
 
-Copyright (c) 2015, IOZack.
+Copyright (c) 2015, IOZach.
 
-Written by Zakaria Abushima <im@zack.today>
+Written by Zachariah Windett <zachwindett@gmail.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
