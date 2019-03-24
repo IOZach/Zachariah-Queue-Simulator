@@ -39,7 +39,7 @@ You need Eclipse SDK to run the application.
 
 GUI Application implements Queue simulation & analytical modelling of a multi-server using markovian queuing theory.
 
-Copyright (c) 2015, IOZach.
+Copyright (c) 2015, PrinceZUK.
 
 Written by Zakaria Bin Faisal bin Abdulaziz Al Saud <hello@princez.uk>
 
